@@ -1,0 +1,18 @@
+{
+    "name":"pengjun132/composer_test",
+    "description": "composer test demo",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pengjun132",
+            "email": "1098325951@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "pengjun132\\composer_test\\":"src"
+        }
+    }
+}
