@@ -11,9 +11,6 @@
     ],
     "repositories": [
         {
-            "packagist": false
-        },
-        {
             "type": "composer",
             "url": "http://packagist.phpcomposer.com"
         }
