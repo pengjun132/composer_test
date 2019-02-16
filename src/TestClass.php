@@ -6,6 +6,10 @@
         public function test(){
             return "test composer";
         }
+
+        public function index(){
+            return "this is my first test";
+        }
     }
 
 ?>
